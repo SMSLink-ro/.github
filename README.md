@@ -1,5 +1,4 @@
 #### SMSLink este solutia pentru SMS marketing, campanii SMS si SMS gateway, lansata in 2008, prin care se transmit peste 245 milioane de SMS / an.
-#### SMSLink is the solution for SMS marketing, SMS campaigns and SMS gateway, launched in 2008, with more than 245 million SMS sent / year.
 
 ## How to Start?
 
