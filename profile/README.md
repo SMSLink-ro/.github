@@ -4,5 +4,5 @@
 ## How to Start?
 
 1. Create an account on [SMSLink.ro](https://www.smslink.ro/inregistrare/)
-2. Create a SMS Gateway connection at [SMSLink.ro / SMS Gateway / Configuration & Settings](https://www.smslink.ro/sms/gateway/setup.php). Each SMS Gateway connection is a pair of Connection ID and Password. 
+2. Create a SMS Gateway connection at [SMSLink.ro / SMS Gateway / Configuration & Settings](https://www.smslink.ro/sms/gateway/setup.php). 
 3. Choose your favorite Integration Example from GitHub
